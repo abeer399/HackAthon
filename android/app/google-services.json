@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "792256052939",
+    "firebase_url": "https://hackacthon-c7d11.firebaseio.com",
+    "project_id": "hackacthon-c7d11",
+    "storage_bucket": "hackacthon-c7d11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792256052939:android:c0a14bed9dc05ce199a54e",
+        "android_client_info": {
+          "package_name": "pk.pakacademy.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792256052939-09fp5ml1414rhindd9o99rok262c6ngv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6yvXpLTXzngJq7g4jmlydjgFV4ZLYaLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792256052939-09fp5ml1414rhindd9o99rok262c6ngv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
