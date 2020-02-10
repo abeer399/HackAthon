@@ -9,10 +9,10 @@ class Splash extends StatelessWidget {
         body: Stack(
           children: <Widget>[
             Container(
-              padding: EdgeInsetsDirectional.only(top:350),
+              padding: EdgeInsetsDirectional.only(top:250),
               color: Colors.white,
               width: getScreenSize(context).width,
-              child: Image.asset("images/Group685.png"),
+              child: Image.asset("images/Group711.png"),
             ),
             Container(
               padding: EdgeInsetsDirectional.only(top: 700,start: 90),
